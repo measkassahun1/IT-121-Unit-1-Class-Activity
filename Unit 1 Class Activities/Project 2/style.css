@@ -1,0 +1,10 @@
+/*Style the buttons and content area*/
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#contentArea{
+    margin-top: 20px;
+    font-size: 16px;
+}
